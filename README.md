@@ -22,7 +22,7 @@ Static website for `debygamesfunfact.com`, designed for GitHub Pages and App Sto
 
 ## Required before App Store submission
 
-- Configure working email inboxes or forwarding for `support@debygamesfunfact.com` and `privacy@debygamesfunfact.com`.
+- Configure working email inboxes or forwarding for `support@debygames.freeqiye.com` and `privacy@debygames.freeqiye.com`.
 - Confirm every app using this policy includes only the advertising SDKs listed in the Privacy Policy.
 - If an app is directed to children, uses accounts, subscriptions, in-app purchases, analytics, crash reporting, or collects additional data, update the Privacy Policy before submission.
 - Use final HTTPS URLs in App Store Connect, not GitHub preview URLs.
